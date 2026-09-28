@@ -1,0 +1,10 @@
+# Saturday at the gear locker
+lend tent Sam
+lend stove Sam
+status lantern
+lend lantern Ana
+borrow kayak Ana
+
+return tent
+return kayak
+lend canoe Jo

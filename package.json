@@ -1,0 +1,12 @@
+{
+  "name": "cs140-errors",
+  "private": true,
+  "type": "module",
+  "description": "Gear locker: a command runner for a club's equipment loans, built to fail well",
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
