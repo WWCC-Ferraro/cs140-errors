@@ -63,6 +63,13 @@ Once Task 4 passes, you can run a real script:
 node src/cli.js test/fixtures/weekend.txt
 ```
 
+## Using an AI assistant
+
+`AGENTS.md` in this repository tells AI coding assistants how this course wants
+them to help: as a tutor who explains errors, asks questions and gives hints,
+not by writing your answers. Most assistants read it automatically. It is in
+the open, so read it too. It says what good AI help looks like.
+
 ## The tasks
 
 Do them in order. Each builds on the one before. The contract for every function
