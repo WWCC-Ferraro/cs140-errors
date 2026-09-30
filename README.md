@@ -38,12 +38,14 @@ Node only.
 
 ## Getting started
 
-1. Create your own repository from this template. On GitHub, choose **Use this
-   template**.
-2. Open it in a Codespace, or clone it and work on your own machine with Node 22
-   or later. Either way works the same. *Set up where your code runs* in Start
-   Here covers both.
-3. Run the tests:
+1. Open **your repository**. It is made for you: private, and named for this
+   homework, the term and your username — `<term>-cs140-errors-<you>`. On
+   [this homework's page](https://wwcc.dev/#/lesson/errors-assignment), type your GitHub
+   username and click **Open my Codespace**. On your own computer, clone it
+   with GitHub Desktop (**Code**, then **Open with GitHub Desktop**) and check
+   that `node --version` prints 22 or later. Start Here's *How a homework works*
+   walks through both.
+2. Run the tests:
 
    ```text
    npm test
